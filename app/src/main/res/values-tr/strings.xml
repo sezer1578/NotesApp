@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyNotesApp</string>
+    <string name="pHigh">Çok önemli</string>
+    <string name="allNotes">Tüm Notlar</string>
+    <string name="pMedium">Normal</string>
+    <string name="pLow">Düşük</string>
+    <string name="homePage">Anasayfa</string>
+    <string name="createPage">Yeni Not</string>
+    <string name="editPage">Not Düzenle</string>
+    <string name="title">Başlık</string>
+    <string name="typeNote">Bir şey yaz..</string>
+    <string name="deleteNote">Not silinsin mi ?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="choose">seçildi</string>
+    <string name="edit">Düzenle</string>
+    <string name="close">Kapat</string>
+    <string name="delete">Sil</string>
+    <string name="search">Başlık ya da not ara...</string>
+</resources>

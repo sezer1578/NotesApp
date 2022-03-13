@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyNotesApp</string>
+    <string name="pHigh">High</string>
+    <string name="allNotes">All Notes</string>
+    <string name="pMedium">Medium</string>
+    <string name="pLow">Low</string>
+    <string name="homePage">Home Page</string>
+    <string name="createPage">Create New Note</string>
+    <string name="editPage">Edit Note</string>
+    <string name="title">Title</string>
+    <string name="typeNote">Type something..</string>
+    <string name="deleteNote">Delete Note ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="choose">chosen</string>
+    <string name="edit">Edit</string>
+    <string name="close">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="search">Search Title or Note...</string>
+</resources>
