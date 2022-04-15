@@ -1,2 +1,0 @@
-# NotesApp
- Create Note App
