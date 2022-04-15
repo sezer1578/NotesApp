@@ -1,5 +1,5 @@
 # Note Taking Android App
-With this application, you can create new notes, edit and delete your notes. You can also set the priority level when creating a new note. On the homepage, you can filter notes by importance.
+You can create a new note, edit and delete your notes using this application and you can also set the priority level when creating a new note. In addition, you can filter notes by their priority on the homepage.
 
 
 ## Used Technologies
